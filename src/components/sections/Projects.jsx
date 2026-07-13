@@ -20,14 +20,14 @@ const projectsData = [
     description: "A comprehensive safety platform for railway environments detecting potential hazards using real-time computer vision.",
     features: ["Risk Engine", "Analytics Dashboard"],
     technologies: ["Computer Vision", "YOLO", "FastAPI", "React"],
-    github: "https://github.com/abhishtagyanda-png"
+    github: "https://github.com/aseesmakkar45/HACK4DELHI-CodingKDhurandar"
   },
   {
     title: "CricSenseAI",
     description: "AI-powered sports analytics platform providing heatmaps and insights for cricket matches.",
     features: ["Heatmaps", "Analytics Dashboard"],
     technologies: ["AI", "Sports Analytics", "YOLO", "ByteTrack", "React", "FastAPI"],
-    github: "https://github.com/abhishtagyanda-png"
+    github: "https://github.com/aseesmakkar45/Synapse"
   },
   {
     title: "Portfolio Website",
