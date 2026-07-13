@@ -33,9 +33,9 @@ const Navbar = () => {
           to="home"
           smooth={true}
           duration={800}
-          className="text-2xl font-serif font-bold cursor-pointer tracking-wider"
+          className="text-3xl font-serif font-bold cursor-pointer tracking-wider"
         >
-          A.G.
+          AG
         </Link>
 
         {/* Desktop Nav */}
