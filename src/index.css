@@ -4,7 +4,7 @@
 
 @layer base {
   html {
-    background: #04051a;
+    background: #070921;
   }
 
   body {
@@ -45,7 +45,7 @@
     /* Bottom-right navy cloud */
     radial-gradient(ellipse 60% 35% at 80% 80%, rgba(20, 30, 80, 0.30) 0%, transparent 65%),
     /* Base deep space */
-    linear-gradient(160deg, #04051a 0%, #07082a 40%, #050518 70%, #03030f 100%);
+    linear-gradient(160deg, #070921 0%, #050616 40%, #030412 70%, #02020a 100%);
 }
 
 /* Star layers — tiny dots via box-shadow (no images, no JS needed) */

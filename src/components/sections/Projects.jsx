@@ -105,7 +105,7 @@ const ProjectCard = ({ project, index }) => (
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-24 bg-background relative border-t border-white/5">
+    <section id="projects" className="py-24 bg-transparent relative border-t border-white/5">
       <div className="container mx-auto px-6">
         <SectionHeading>Engineering Work</SectionHeading>
         

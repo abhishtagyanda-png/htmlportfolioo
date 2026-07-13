@@ -15,7 +15,7 @@ const timelineData = [
 
 const Timeline = () => {
   return (
-    <section id="timeline" className="py-24 bg-background relative border-t border-white/5">
+    <section id="timeline" className="py-24 bg-transparent relative border-t border-white/5">
       <div className="container mx-auto px-6 max-w-3xl">
         <SectionHeading align="left">Trajectory</SectionHeading>
         

@@ -6,7 +6,7 @@ import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-32 bg-background relative border-t border-white/5">
+    <section id="contact" className="py-32 bg-transparent relative border-t border-white/5">
       <div className="container mx-auto px-6 max-w-3xl text-center">
         <SectionHeading>Initiate Contact</SectionHeading>
         

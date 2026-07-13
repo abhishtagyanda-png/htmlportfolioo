@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-background py-16 border-t border-white/5 relative z-10">
+    <footer className="bg-transparent py-16 border-t border-white/5 relative z-10">
       <div className="container mx-auto px-6 text-center max-w-2xl">
         <div className="font-serif text-xl md:text-2xl italic text-white/70 mb-8 font-light flex flex-col gap-4">
           <p>"The universe is big. Might as well write good code while exploring it."</p>

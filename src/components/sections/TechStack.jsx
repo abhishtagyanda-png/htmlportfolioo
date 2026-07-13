@@ -23,7 +23,7 @@ const techCategories = [
 
 const TechStack = () => {
   return (
-    <section id="tech-stack" className="py-24 bg-background relative border-t border-white/5">
+    <section id="tech-stack" className="py-24 bg-transparent relative border-t border-white/5">
       <div className="container mx-auto px-6 max-w-5xl">
         <SectionHeading>Technical Arsenal</SectionHeading>
         
