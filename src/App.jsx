@@ -11,19 +11,31 @@ import Contact from './components/sections/Contact';
 
 function App() {
   return (
-    <div className="bg-background min-h-screen text-white font-sans selection:bg-accent selection:text-white relative">
-      <Navbar />
-      <main className="relative z-10">
-        <Hero />
-        <About />
-        <Projects />
-        <TechStack />
-        <Timeline />
-        <Achievements />
-        <Contact />
-      </main>
-      <Footer />
-    </div>
+    <>
+      {/* Global persistent starfield — sits behind everything, covers all sections */}
+      <div id="star-canvas" aria-hidden="true">
+        <div className="stars-small-1" />
+        <div className="stars-small-2" />
+        <div className="stars-medium-1" />
+        <div className="stars-medium-2" />
+        <div className="stars-large-1" />
+        <div className="stars-large-2" />
+      </div>
+
+      <div className="relative z-10 min-h-screen text-white font-sans">
+        <Navbar />
+        <main>
+          <Hero />
+          <About />
+          <Projects />
+          <TechStack />
+          <Timeline />
+          <Achievements />
+          <Contact />
+        </main>
+        <Footer />
+      </div>
+    </>
   );
 }
 
