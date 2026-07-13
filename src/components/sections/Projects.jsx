@@ -13,7 +13,7 @@ const projectsData = [
     solution: "Developed a custom simulation engine using Python and Tkinter for rendering, implementing numerical integration for accurate planetary paths.",
     features: ["Interactive UI", "Kepler's Law Visualization", "Animated Asteroid Belt", "Future NASA Data Integration"],
     technologies: ["Python", "Tkinter", "Object-Oriented Programming", "Scientific Visualization"],
-    github: "https://github.com/abhishtagyanda-png"
+    github: "https://github.com/abhishtagyanda-png/solar-system-simulator"
   },
   {
     title: "Railway AI Safety System",
